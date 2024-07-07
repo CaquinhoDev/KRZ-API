@@ -1,0 +1,32 @@
+{
+  "comandos": {
+    "fechar": "O comando !fechar fecha o grupo para que apenas os administradores possam mandar mensagens. O comando alternativo \u00e9 <!close>.",
+    "rebaixar": "O comando !rebaixar rebaixa o participante mencionado para membro do grupo. O comando alternativo \u00e9 <!demote>.",
+    "todos": "O comando !todos menciona todos os membros do grupo. Exemplo: !todos olhem isso aqui! Os comandos alternativos s\u00e3o <!todas !tds !all !everyone>.",
+    "convite": "O comando !convite envia o link de convite do grupo. O comando alternativo \u00e9 <!invite>.",
+    "abrir": "O comando !abrir abre o grupo para que todos possam mandar mensagens. O comando alternativo \u00e9 <!open>.",
+    "sorteio": "O comando !sorteio realiza um sorteio entre os membros do grupo. Exemplo: !sorteio de um doce! Os comandos alternativos s\u00e3o <!sortear !concurso !raffle>.",
+    "attp": "O comando !attp cria uma figurinha animada com o texto fornecido. Exemplo: !attp Ol\u00e1 mundo!",
+    "cep": "O comando !cep mostra informa\u00e7\u00f5es do CEP enviado. Exemplo: !cep 89010025.",
+    "cnpj": "O comando !cnpj mostra informa\u00e7\u00f5es do CNPJ enviado. Exemplo: !cnpj 19131243000197.",
+    "creditos": "O comando !creditos mostra os cr\u00e9ditos do bot. O comando alternativo \u00e9 <!credits>.",
+    "ddd": "O comando !ddd mostra informa\u00e7\u00f5es do DDD enviado. Exemplo: !ddd 11.",
+    "feedback": "O comando !feedback envia feedback ao criador do bot.",
+    "placa": "O comando !placa consulta informa\u00e7\u00f5es do ve\u00edculo na tabela FIPE baseado na sua placa. Exemplo: !placa ABC1234. O comando alternativo \u00e9 <!fipe>.",
+    "feriado": "O comando !feriado mostra informa\u00e7\u00f5es sobre o pr\u00f3ximo feriado no Brasil. O comando alternativo \u00e9 <!holiday>.",
+    "link": "O comando !link envia o link da comunidade do bot.",
+    "menu": "O comando !menu exibe o menu de comandos do bot. Os comandos alternativos s\u00e3o <!ajuda !comando !help>.",
+    "mp3": "O comando !mp3 baixa m\u00fasica do v\u00eddeo no YouTube. Exemplo: !mp3 link do v\u00eddeo no YouTube ou nome da m\u00fasica. O comando alternativo \u00e9 <!play>.",
+    "ping": "O comando !ping verifica o tempo de resposta do bot.",
+    "pix": "O comando !pix fornece a chave Pix para colaborar com o StickerBot. O comando alternativo \u00e9 <!donate>.",
+    "prefixos": "O comando !prefixos mostra os prefixos aceitos pelo bot. O comando alternativo \u00e9 <!prefixes>.",
+    "rembg": "O comando !rembg cria um sticker removendo a imagem de fundo. Os comandos alternativos s\u00e3o <!bg !recortar !recorte>.",
+    "renomear": "O comando !renomear altera o autor e o pack de uma figurinha. Exemplo: !renomear novo autor | novo pack. Os comandos alternativos s\u00e3o <!roubar !rename>.",
+    "simi": "O comando !simi responde mensagens usando a API SimSimi. Exemplo: !simi salve mano, como voc\u00ea t\u00e1? O comando alternativo \u00e9 <!bot>.",
+    "estatisticas": "O comando !estatisticas mostra as estat\u00edsticas de uso do bot. Os comandos alternativos s\u00e3o <!stats !status>.",
+    "ttp": "O comando !ttp cria uma figurinha com o texto fornecido. Exemplo: !ttp Ol\u00e1 mundo!",
+    "uptime": "O comando !uptime mostra h\u00e1 quanto tempo o bot est\u00e1 ligado.",
+    "contato": "O comando !contato envia o contato do bot. O comando alternativo \u00e9 <!vcard>.",
+    "versao": "O comando !versao mostra a vers\u00e3o atual do bot. Os comandos alternativos s\u00e3o <!version !sobre !about>."
+  }
+}

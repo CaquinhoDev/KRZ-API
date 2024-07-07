@@ -1,0 +1,4 @@
+chatterbot
+fastapi
+spacy
+uvicorn[standard]
